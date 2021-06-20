@@ -5,4 +5,10 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_rosy.mk
+    $(LOCAL_DIR)/fluid_rosy.mk
+    
+COMMON_LUNCH_CHOICES := \
+    fluid_rosy-user \
+    fluid_rosy-userdebug \
+    fluid_rosy-eng
+    

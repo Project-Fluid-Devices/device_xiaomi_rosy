@@ -1,0 +1,19 @@
+[
+   {
+      "remote":      "fluid-devices",
+      "repository":  "vendor_xiaomi_rosy",
+      "target_path": "vendor/xiaomi/rosy"
+   },
+   {
+      "remote":"github",
+      "branch":"eleven",
+      "repository":"PixelExperience-Devices/kernel_xiaomi_rosy",
+      "target_path":"kernel/xiaomi/rosy"
+   },
+   {
+      "remote":	   "github",
+      "branch":	   "eleven",
+      "target_path": "vendor/codeaurora/telephony",
+      "repository":  "PixelExperience/vendor_codeaurora_telephony"
+   }
+]
